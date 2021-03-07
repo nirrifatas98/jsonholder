@@ -7,6 +7,10 @@
     {
       "name" : "Rifat",
       "age" : "32"
+    },
+    {
+      "name" : "Khan",
+      "age" : "43"
     }
   ]
 }
